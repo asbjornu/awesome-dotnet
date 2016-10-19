@@ -115,6 +115,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 * [Nelibur](https://github.com/Nelibur/Nelibur) - Nelibur is message based web service framework on the pure WCF. Nelibur simplifies creating high-performance and message based web services and you certainly have all the power of the WCF.
 * [WebAPI Contrib](https://github.com/WebApiContrib/WebAPIContrib) - Collection of open source projects to help improve your work with ASP.NET Web API
+* [Pomona](https://github.com/Pomona/Pomona) - Pomona is an opinionated, convention-over-configuration-based API framework for exposing a domain model as a rich, hypermedia-driven RESTful HTTP API. Pomona even auto-generates a statically typed client library for your API, so you can perform Linq queries on your domain model entities, expand sub-entities, perform paging and anything you'd expect from an [`IQueryable`](https://msdn.microsoft.com/en-us/library/system.linq.iqueryable.aspx) implementation.
 
 ## Application Frameworks
 
